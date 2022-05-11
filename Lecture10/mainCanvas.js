@@ -1,4 +1,4 @@
-var canvas = document.getElementById("game");
+/*var canvas = document.getElementById("game");
 var context = canvas.getContext("2d");
 // context 무조건 시험나온다.
 // context : c에서 사용할 때 특히 구조적 프로그래밍을 할때 사용합니다.
@@ -61,7 +61,7 @@ canvas.onclick = function(event)
 var bullets = new Bullet(Bullet.pos_x,Bullet.pos_y,5,5,'pink');
     bullets.draw();
 
-
+*/
 /*var canvas = document.getElementById("game");
 var context = canvas.getContext("2d");
 var raf;
